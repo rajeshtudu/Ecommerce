@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ecommerce/static/css/main.d272a2d5.css",
-    "main.js": "/Ecommerce/static/js/main.21d2bd83.js",
+    "main.css": "/Ecommerce/static/css/main.1bee69fa.css",
+    "main.js": "/Ecommerce/static/js/main.580ea96f.js",
     "static/media/h1_hero1.png": "/Ecommerce/static/media/h1_hero1.f28ec7c0aae3cc167cb4.png",
     "static/media/h1_hero3.png": "/Ecommerce/static/media/h1_hero3.d7cdaf693245a7ef1cbc.png",
     "static/media/section_bg01.png": "/Ecommerce/static/media/section_bg01.4390bf2620df8c3d1c4e.png",
@@ -17,6 +17,7 @@
     "static/media/arrival4.png": "/Ecommerce/static/media/arrival4.a91058880f86c918ca91.png",
     "static/media/portfolio-2.jpg": "/Ecommerce/static/media/portfolio-2.fc3013b045287f5e71cc.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/Ecommerce/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/about.jpg": "/Ecommerce/static/media/about.9af76874e5b4cd9afa64.jpg",
     "static/media/brand_04.png": "/Ecommerce/static/media/brand_04.a1bfcc20c9ff44eead67.png",
     "static/media/portfolio-1.jpg": "/Ecommerce/static/media/portfolio-1.5b6dea547071eb0d14b3.jpg",
     "static/media/portfolio-5.jpg": "/Ecommerce/static/media/portfolio-5.2dcd6723c4f2067cb10a.jpg",
@@ -26,9 +27,13 @@
     "static/media/arrival1.png": "/Ecommerce/static/media/arrival1.1b23e5bcd39a8388930c.png",
     "static/media/arrival2.png": "/Ecommerce/static/media/arrival2.84adf9c7124ddc24ce62.png",
     "static/media/arrival7.png": "/Ecommerce/static/media/arrival7.d045f4a0d7c658f17f49.png",
+    "static/media/team-2.jpg": "/Ecommerce/static/media/team-2.b2008acdf74612d89b8f.jpg",
     "static/media/brand_01.png": "/Ecommerce/static/media/brand_01.bebaf76752f081edf502.png",
+    "static/media/team-1.jpg": "/Ecommerce/static/media/team-1.30c859cd9a02bb5dcc9a.jpg",
     "static/media/arrival5.png": "/Ecommerce/static/media/arrival5.087e0a21b9b4392933c6.png",
+    "static/media/team-3.jpg": "/Ecommerce/static/media/team-3.ca581ae1628e295ec2a0.jpg",
     "static/media/arrival3.png": "/Ecommerce/static/media/arrival3.c880dfcb969dee860720.png",
+    "static/media/team-4.jpg": "/Ecommerce/static/media/team-4.1667f1691c64c26197cd.jpg",
     "static/media/arrival6.png": "/Ecommerce/static/media/arrival6.95b8e4757bbc2324ddf0.png",
     "static/media/portfolio-6.jpg": "/Ecommerce/static/media/portfolio-6.c6b9e1909c9c64775807.jpg",
     "static/media/arrival8.png": "/Ecommerce/static/media/arrival8.5ebe2ab8ee5d3a5bedef.png",
@@ -36,11 +41,11 @@
     "static/media/brand_02.png": "/Ecommerce/static/media/brand_02.b8d335a058fde8daa3f8.png",
     "static/media/portfolio-3.jpg": "/Ecommerce/static/media/portfolio-3.80ecc9ef01cdf62dda3d.jpg",
     "index.html": "/Ecommerce/index.html",
-    "main.d272a2d5.css.map": "/Ecommerce/static/css/main.d272a2d5.css.map",
-    "main.21d2bd83.js.map": "/Ecommerce/static/js/main.21d2bd83.js.map"
+    "main.1bee69fa.css.map": "/Ecommerce/static/css/main.1bee69fa.css.map",
+    "main.580ea96f.js.map": "/Ecommerce/static/js/main.580ea96f.js.map"
   },
   "entrypoints": [
-    "static/css/main.d272a2d5.css",
-    "static/js/main.21d2bd83.js"
+    "static/css/main.1bee69fa.css",
+    "static/js/main.580ea96f.js"
   ]
 }
