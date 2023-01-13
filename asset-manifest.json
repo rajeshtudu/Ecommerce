@@ -1,14 +1,23 @@
 {
   "files": {
-    "main.css": "/Ecommerce/static/css/main.1bee69fa.css",
-    "main.js": "/Ecommerce/static/js/main.580ea96f.js",
+    "main.css": "/Ecommerce/static/css/main.b0f7ec28.css",
+    "main.js": "/Ecommerce/static/js/main.9d490134.js",
+    "static/media/blog-recent-4.jpg": "/Ecommerce/static/media/blog-recent-4.359c4e3f06fd21b4cae4.jpg",
+    "static/media/blog-2.jpg": "/Ecommerce/static/media/blog-2.f3c1bddc5e13dff40d07.jpg",
+    "static/media/blog-recent-2.jpg": "/Ecommerce/static/media/blog-recent-2.1f706ad706fbcd7a2d54.jpg",
+    "static/media/blog-recent-3.jpg": "/Ecommerce/static/media/blog-recent-3.5a7fdb0a5bed1adfc8ab.jpg",
     "static/media/h1_hero1.png": "/Ecommerce/static/media/h1_hero1.f28ec7c0aae3cc167cb4.png",
     "static/media/h1_hero3.png": "/Ecommerce/static/media/h1_hero3.d7cdaf693245a7ef1cbc.png",
     "static/media/section_bg01.png": "/Ecommerce/static/media/section_bg01.4390bf2620df8c3d1c4e.png",
+    "static/media/blog-4.jpg": "/Ecommerce/static/media/blog-4.d058fc7e65059c196448.jpg",
     "static/media/h1_hero2.png": "/Ecommerce/static/media/h1_hero2.f06fd6ee959dcfbf8482.png",
+    "static/media/blog-recent-1.jpg": "/Ecommerce/static/media/blog-recent-1.4416a0687a42f11104b8.jpg",
+    "static/media/blog-1.jpg": "/Ecommerce/static/media/blog-1.e27dbb50723c6e554e28.jpg",
+    "static/media/blog-3.jpg": "/Ecommerce/static/media/blog-3.486ba01cbd6d7f423ebe.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Ecommerce/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/popular3.png": "/Ecommerce/static/media/popular3.a59e7d89daf412f629d9.png",
     "static/media/popular1.png": "/Ecommerce/static/media/popular1.883971ed6425a62821be.png",
+    "static/media/blog-recent-5.jpg": "/Ecommerce/static/media/blog-recent-5.2dca646ef7c11bd213ad.jpg",
     "static/media/popular4.png": "/Ecommerce/static/media/popular4.5faaba2b151134b115a7.png",
     "static/media/popular2.png": "/Ecommerce/static/media/popular2.d221c5030da961e8f2bf.png",
     "static/media/fontawesome-webfont.eot": "/Ecommerce/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -41,11 +50,11 @@
     "static/media/brand_02.png": "/Ecommerce/static/media/brand_02.b8d335a058fde8daa3f8.png",
     "static/media/portfolio-3.jpg": "/Ecommerce/static/media/portfolio-3.80ecc9ef01cdf62dda3d.jpg",
     "index.html": "/Ecommerce/index.html",
-    "main.1bee69fa.css.map": "/Ecommerce/static/css/main.1bee69fa.css.map",
-    "main.580ea96f.js.map": "/Ecommerce/static/js/main.580ea96f.js.map"
+    "main.b0f7ec28.css.map": "/Ecommerce/static/css/main.b0f7ec28.css.map",
+    "main.9d490134.js.map": "/Ecommerce/static/js/main.9d490134.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bee69fa.css",
-    "static/js/main.580ea96f.js"
+    "static/css/main.b0f7ec28.css",
+    "static/js/main.9d490134.js"
   ]
 }
